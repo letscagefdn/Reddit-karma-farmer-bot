@@ -34,4 +34,4 @@ The bot avoids generic spam. It analyzes thread content to generate responses th
 ## Installation
 
 1. **Go to Karmabuilder.xyz:**
-   [Link Text](https://karmabuilder.xyz)
+   [Karma Builder](https://karmabuilder.xyz)
